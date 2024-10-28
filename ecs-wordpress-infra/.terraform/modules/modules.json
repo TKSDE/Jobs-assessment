@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"rds","Source":"./modules/rds","Dir":"modules/rds"},{"Key":"secretmanager","Source":"./modules/secretmanager","Dir":"modules/secretmanager"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
