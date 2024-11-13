@@ -3,3 +3,9 @@ ecs-wordpress-infra/aws/*
 ecs-wordpress-infra/awscliv2.zip
 ecs-wordpress-infra/.terraform/
 ecs-wordpress-infra/.terraform/*
+
+.terraform/
+.terraform/*
+awscliv2.zip
+aws/
+aws/dist/
